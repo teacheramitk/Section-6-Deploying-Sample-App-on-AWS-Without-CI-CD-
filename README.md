@@ -38,7 +38,7 @@ Click to Save rules
 **Step 5.Copy the INSTANCE Public ip address and paste it in browser**
 Now it is Up and running.
 
-# End of Lab
+### End of Lab
 
 # Deploy Sample App on single ec2 from S3 - Lab
 
@@ -136,7 +136,7 @@ $INSTANCE_ID --lifecycle-hook-name test-hook --auto-scaling-group-name test-asg 
 **Step 5. Click Create Launch Configurations**
 Successfully created launch configuration test-lc
 
-# End of lab
+### End of lab
 
 
 # Deploy Sample App on EC2 Fleet - Lab
@@ -195,7 +195,7 @@ Click on Update
 
 **Step 12.Goto Ec2Dashboard and copy Ip address of each Instance and check that they are running in browser**
 
-# End of Lab
+### End of Lab
 
 
 # Deploy Sample App on EC2 Fleet with ALB : Part 1 - Lab
@@ -273,7 +273,7 @@ Click on Next:Register Targets
 **Step 13.Copy the Load Balancer of DNS and paste it in browser**
 - Refresh it 3 times to see serving the request on all 3 instances
 
-# End of lab
+### End of lab
 
 # Deploy Sample App on EC2 Fleet with ALB : Part 2 - Lab
 
@@ -297,10 +297,8 @@ Click on Update
 - New instance is in Pending:Wait>Pending:Proceed>Inservice
 
 
-# End of Lab
+### End of Lab
 
-
-# End of Lab
 
 
 # Deploy Sample App on Elastic Beanstalk - Lab
@@ -343,7 +341,7 @@ click on save rules
 **Step 8.Copy this Instance public ip and paste it in browser**
 - Now it is Up and running
 
-# End of lab
+### End of lab
 
 # Section Clean-up - Lab
 
@@ -367,7 +365,7 @@ click on save rules
 
 **Step 6. Goto AWS Management Console>EC2 Dashboard>AUTO SCALING>Launch configurations>test-lc>Actions>Delete>Confirm delete**
 
-# End of lab
+### End of lab
 
 
 
