@@ -36,6 +36,7 @@ $ node app.js
 Click to Save rules
 
 **Step 5.Copy the INSTANCE Public ip address and paste it in browser**
+
 Now it is Up and running.
 
 ### End of Lab
@@ -105,7 +106,8 @@ $ node app.js
 **Step 1. Goto AWS Management Console>Services>Ec2>Ec2Dashboard>Auto Scaling>Launch Configurations**
 
 **Step 2. Click on Create Launch configuration**
-        - Give name - test-lc
+        
+	- Give name - test-lc
         - AMI - Copy AMI-Id from launch Instance
         - Instance type- choose t2.micro
         - IAM Instance profile - EC2S3FullAccess
@@ -227,6 +229,7 @@ Click on Next
 Click Next:Configure Security Groups
 
 **Step 5.Select security group in Configure Security Groups**
+
 Click on Next:Configure Routing
 
 **Step 6.In Configure Routing>Target group**
